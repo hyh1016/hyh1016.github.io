@@ -1,0 +1,15 @@
+@import './root/variables.scss';
+@import './root/functions.scss';
+@import './root/mixins.scss';
+@import './root/root.scss';
+
+@import './main.scss';
+
+@import './includes/left.scss';
+@import './includes/right.scss';
+@import './includes/header.scss';
+@import './includes/footer.scss';
+@import './includes/content.scss';
+@import './includes/all-posts.scss';
+@import './includes/pagination.scss';
+@import './includes/post-view.scss';
